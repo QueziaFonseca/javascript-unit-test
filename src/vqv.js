@@ -15,7 +15,7 @@
       trabalho na Trybe e mando muito em programação!
       #VQV!'
 */
-// na vdd, quando esta sem parametro ja é undefined
+// quando não recebe parametro já é undefined
 const vqv = (string, number) => {
   if (typeof string === 'undefined' || typeof number === 'undefined') {
     return undefined;
