@@ -24,5 +24,5 @@ const createStudent = (string) => {
   return estudante;
 };
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-// console.log(createStudent('Leandrão, o Lobo Solitário'));
+// console.log(createStudent('Leandrão, o Lobo Solitário').feedback());
 module.exports = createStudent;
